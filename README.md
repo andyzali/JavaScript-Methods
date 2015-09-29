@@ -1,5 +1,5 @@
 # JavaScript-Methods
 #Refactored JS methods from the Underscore.js library.
-#Warning: These methods are not optimized.
+#These methods are for self-learning purposes only.
 #Please refer to the Underscore.js documentation for reference.
 >>>>>>>>>>> http://underscorejs.org/#
